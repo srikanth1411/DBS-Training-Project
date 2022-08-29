@@ -5,7 +5,6 @@ import { Navbar } from './navigation';
 import Chart from 'react-apexcharts';
 import {  Grid } from '@mui/material';
 import Axios from 'axios';
-import axios from 'axios';
 
 export function Landing(props){
     const location=useLocation()
